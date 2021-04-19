@@ -1,4 +1,4 @@
-# Inaugural Address Project
+# Inaugural Address Analysis
 
 By: Na-Rae the Student
 
@@ -10,14 +10,19 @@ Data source: from [this place](http://www.nltk.org/nltk_data/)
 
 * [`final_report.md`](final_report.md) is my final report write-up
 
-* [`process_data.ipynb`](process_data.ipynb) is part 1 of my code, which focuses on data clean up. Since GitHub mangles section links, here's the [same notebook through Jupyter's nbviewer](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/Inaugural-Address-Project/blob/master/process_data.ipynb). 
+* [`process_data.ipynb`](process_data.ipynb) is part 1 of my code, which focuses on data clean up. Since GitHub mangles section links, here's the [same notebook through Jupyter's nbviewer](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2021/Inaugural-Address-Analysis/blob/main/process_data.ipynb). 
 
 * [`data/`](data) folder is where the original data files are found. 
 
 * [`image_files/`](image_files) folder contains plot graphs saved as `.png` files.
 
 * [`LICENSE.md`](LICENSE.md) contains licensing information. 
+
+* [`project_plan.md`](project_plan.md) was my initial project plan. 
+
+* [`progress_report.md`](progress_report.md) contains progress logs throughout this semester. 
+
  
 ## Visitors log
-My Visitors log file can be [found here](https://github.com/Data-Science-for-Linguists-2019/Class-Plaza/blob/master/guestbooks/guestbook_tingwei.md). Or not.  
+My Guestbook can be [found here](https://github.com/Data-Science-for-Linguists-2021/Class-Lounge/blob/main/guestbooks/guestbook_lexy.md). Or not.  
 
